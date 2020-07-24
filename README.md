@@ -3,4 +3,4 @@ use demo de git
 
 qui se déroule bien
 
-et modification depuis git
+et modification depuis git et github
